@@ -48,37 +48,6 @@ I focus on building practical software with clear architecture, measurable evalu
 
 ## Technical Skills
 
-<p align="center">
-  <strong>Languages</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js&theme=dark" alt="Python, TypeScript and JavaScript"/>
-</p>
-
-<p align="center">
-  <strong>Backend & Databases</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,sqlite,supabase&theme=dark" alt="FastAPI, SQLite and Supabase"/>
-</p>
-
-<p align="center">
-  <strong>Frontend</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="React, Next.js, Vite and Tailwind CSS"/>
-</p>
-
-<p align="center">
-  <strong>AI/ML & Tools</strong>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,streamlit,git,github,vercel&theme=dark" alt="Scikit-learn, Streamlit, Git, GitHub and Vercel"/>
-</p>
 
 **Languages:** Python · TypeScript · JavaScript · SQL
 
@@ -295,20 +264,7 @@ Filed on 29 May 2026 at Vellore Institute of Technology.
 
 ---
 
-## GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=santhoshraghuraman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="180"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshraghuraman&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Most used programming languages"
-  />
-</p>
 
 <p align="center">
   <img
@@ -330,19 +286,6 @@ Filed on 29 May 2026 at Vellore Institute of Technology.
   />
 </p>
 
-## 3D Contribution Calendar
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg"/>
-    <img src="./profile-3d-contrib/profile-green.svg" width="100%" alt="3D GitHub contribution calendar"/>
-  </picture>
-</p>
-
-<p align="center">
-  <em>Consistent learning, building and contributing.</em>
-</p>
 
 ---
 
