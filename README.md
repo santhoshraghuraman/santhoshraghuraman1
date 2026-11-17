@@ -48,25 +48,7 @@ I focus on building practical software with clear architecture, measurable evalu
 
 ## Technical Skills
 
-<p align="center"><strong>Languages</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" alt="Python, TypeScript and JavaScript" />
-</p>
 
-<p align="center"><strong>Backend &amp; Databases</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,sqlite,supabase&theme=dark" alt="FastAPI, SQLite and Supabase" />
-</p>
-
-<p align="center"><strong>Frontend</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="React, Next.js, Vite and Tailwind CSS" />
-</p>
-
-<p align="center"><strong>AI/ML &amp; Developer Tools</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,streamlit,git,github,vercel&theme=dark" alt="scikit-learn, Streamlit, Git, GitHub and Vercel" />
-</p>
 
 | Category | Technologies |
 |---|---|
