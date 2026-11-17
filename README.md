@@ -48,6 +48,37 @@ I focus on building practical software with clear architecture, measurable evalu
 
 ## Technical Skills
 
+<p align="center">
+  <strong>Languages</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js&theme=dark" alt="Python, TypeScript and JavaScript"/>
+</p>
+
+<p align="center">
+  <strong>Backend & Databases</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,sqlite,supabase&theme=dark" alt="FastAPI, SQLite and Supabase"/>
+</p>
+
+<p align="center">
+  <strong>Frontend</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="React, Next.js, Vite and Tailwind CSS"/>
+</p>
+
+<p align="center">
+  <strong>AI/ML & Tools</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,streamlit,git,github,vercel&theme=dark" alt="Scikit-learn, Streamlit, Git, GitHub and Vercel"/>
+</p>
 
 **Languages:** Python · TypeScript · JavaScript · SQL
 
@@ -264,6 +295,8 @@ Filed on 29 May 2026 at Vellore Institute of Technology.
 
 ---
 
+## GitHub Statistics
+
 
 
 <p align="center">
@@ -285,6 +318,7 @@ Filed on 29 May 2026 at Vellore Institute of Technology.
     alt="GitHub contribution activity graph"
   />
 </p>
+
 
 
 ---
