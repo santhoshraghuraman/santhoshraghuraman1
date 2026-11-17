@@ -1,60 +1,98 @@
+
+<!-- ====================================================== -->
+<!--                    PROFILE HEADER                      -->
+<!-- ====================================================== -->
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=850&lines=Santhosh+R;Backend-Focused+Software+Engineer;Applied+AI%2FML+Systems;Python+%7C+FastAPI+%7C+TypeScript+%7C+React"
-    alt="Animated introduction: Santhosh R — Backend-Focused Software Engineer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Santhosh%20R&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineering%20%7C%20Applied%20AI%2FML%20Systems&descSize=17&descAlignY=60"
+    width="100%"
+    alt="Santhosh R - Backend Engineering and Applied AI/ML Systems"
   />
 </p>
 
 <p align="center">
-  <a href="https://santhosh-portfolio-gamma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-203A43?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/santhosh-0407rv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/Santhosh191204/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:santhosh.rv.work@gmail.com"><img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <strong>Backend-Focused Software Engineer | Applied AI/ML Systems</strong>
 </p>
 
-<p align="center">📍 Vellore, Tamil Nadu, India</p>
+<p align="center">
+  <a href="https://santhosh-portfolio-gamma.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/santhosh-0407rv/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/u/Santhosh191204/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:santhosh.rv.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2c5364?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  📍 Vellore, Tamil Nadu, India
+</p>
 
 ---
 
 ## About Me
 
-Integrated M.Tech Software Engineering student at Vellore Institute of Technology (VIT), expected to graduate in 2027. I am targeting Graduate Software Engineer and entry-level Software Developer roles.
+Integrated M.Tech Software Engineering student at Vellore Institute of Technology (VIT), expected to graduate in 2027.
 
-I build backend and full-stack applications using Python, FastAPI, React and TypeScript. My work includes API development, database integration, applied AI/ML systems and automated testing. I value clear architecture, measurable evaluation and honest reporting of implementation status.
+I build backend and full-stack applications using Python, FastAPI, React and TypeScript. My work includes AI-integrated systems, REST APIs, database integration and automated testing.
+
+I focus on building practical software with clear architecture, measurable evaluation and reliable testing.
 
 ---
 
 ## Technical Skills
 
-<p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js&theme=dark" alt="Python, TypeScript and JavaScript" />
+  <strong>Languages</strong>
 </p>
 
-<p align="center"><strong>Backend &amp; Databases</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,sqlite,supabase&theme=dark" alt="FastAPI, SQLite and Supabase" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js&theme=dark" alt="Python, TypeScript and JavaScript"/>
 </p>
 
-<p align="center"><strong>Frontend</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="React, Next.js, Vite and Tailwind CSS" />
+  <strong>Backend & Databases</strong>
 </p>
 
-<p align="center"><strong>AI/ML &amp; Developer Tools</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,streamlit,git,github,vercel&theme=dark" alt="scikit-learn, Streamlit, Git, GitHub and Vercel" />
+  <img src="https://skillicons.dev/icons?i=fastapi,sqlite,supabase&theme=dark" alt="FastAPI, SQLite and Supabase"/>
 </p>
 
-| Category | Technologies |
-|---|---|
-| **Languages** | Python · TypeScript · JavaScript · SQL |
-| **Backend** | FastAPI · REST APIs · Pydantic · SQLAlchemy · SQLite · Supabase |
-| **Frontend** | React · Next.js · Vite · HTML/CSS · Tailwind CSS |
-| **AI/ML** | Retrieval-Augmented Generation (RAG) · FAISS · scikit-learn · Random Forest |
-| **Testing** | pytest · Vitest |
-| **Tools** | Git · GitHub · Vercel · Streamlit · PyMuPDF · Cloudinary |
-| **Fundamentals** | Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks |
+<p align="center">
+  <strong>Frontend</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="React, Next.js, Vite and Tailwind CSS"/>
+</p>
+
+<p align="center">
+  <strong>AI/ML & Tools</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,streamlit,git,github,vercel&theme=dark" alt="Scikit-learn, Streamlit, Git, GitHub and Vercel"/>
+</p>
+
+**Languages:** Python · TypeScript · JavaScript · SQL
+
+**Backend:** FastAPI · REST APIs · Pydantic · SQLAlchemy · SQLite · Supabase
+
+**Frontend:** React · Next.js · Vite · HTML/CSS · Tailwind CSS
+
+**AI/ML:** Retrieval-Augmented Generation (RAG) · FAISS · scikit-learn · Random Forest
+
+**Testing:** pytest · Vitest
+
+**Tools:** Git · GitHub · Vercel · Streamlit · PyMuPDF · Cloudinary
+
+**Fundamentals:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
 
 ---
 
@@ -63,26 +101,26 @@ I build backend and full-stack applications using Python, FastAPI, React and Typ
 ### 1. AgentSentinel — Runtime Governance for AI Agents
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="pytest"/>
 </p>
 
 *Individual M.Tech dissertation at VIT Vellore · Solo-implemented*
 
-A 12-module runtime governance system that intercepts AI-agent tool calls before execution and enforces fail-closed handling for `BLOCK` verdicts.
+A 12-module runtime governance system that intercepts AI agent tool calls before execution, with fail-closed enforcement on BLOCK verdicts.
 
 - Pre-execution interception and action normalization.
 - Behavioral tracking and 22-feature extraction.
-- Random Forest risk assessment and task-context authorization.
+- Random Forest risk model and task-context authorization.
 - Policy fusion and SQLite/SQLAlchemy audit persistence.
-- FastAPI backend and React/TypeScript observability dashboard.
+- FastAPI backend and React/TypeScript dashboard.
 
-**Test suite:** 523 documented pytest tests.
+**Testing:** 523 documented pytest tests.
 
-**Held-out evaluation:** 250 samples from 1,000 ATBench trajectories.
+**Evaluation:** 250 held-out samples from 1,000 ATBench trajectories.
 
 | Metric | Result |
 |---|---:|
@@ -92,82 +130,93 @@ A 12-module runtime governance system that intercepts AI-agent tool calls before
 | F1-score | 68.49% |
 | ROC-AUC | 0.7782 |
 
-*These are internal, single-dataset evaluation results, not an independently benchmarked result.*
+*Internal single-dataset evaluation, not an independently benchmarked result.*
 
-[View repository →](https://github.com/santhoshraghuraman/AgentSentinel)
+<p>
+  <a href="https://github.com/santhoshraghuraman/AgentSentinel">View Repository →</a>
+</p>
 
 ---
 
 ### 2. SciPilot — Scientific Document Research Assistant
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FAISS-00599C?style=flat" alt="FAISS" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=flat" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white" alt="pytest"/>
 </p>
 
-*AI internship project · AICTE–Edunet Foundation (IBM SkillsBuild)*
+*AI Internship project · AICTE–Edunet Foundation (IBM SkillsBuild)*
 
-A seven-stage research pipeline for scientific PDFs covering planning, retrieval, synthesis, verification, citation generation, reporting and session memory.
+A seven-stage research pipeline for scientific PDFs covering planning, retrieval, synthesis, verification, citation generation, reporting and memory.
 
-- PDF extraction and overlapping text chunking with PyMuPDF.
-- FAISS retrieval with Maximal Marginal Relevance (MMR) re-ranking.
+- PDF extraction and overlapping text chunking using PyMuPDF.
+- FAISS retrieval with MMR re-ranking.
 - Citation coverage and n-gram grounding verification.
 - Confidence scoring and APA/IEEE citation formatting.
-- Markdown/PDF report export through a five-tab Streamlit interface.
+- Markdown/PDF export through a five-tab Streamlit interface.
 
-**Test suite:** 378 documented pytest tests.
+**Testing:** 378 documented pytest tests.
 
-*The project includes a local demo mode. IBM watsonx.ai integration is implemented but has not been live-validated; the local demo should not be described as live IBM inference.*
+*Demonstrated in local demo mode. watsonx.ai integration is implemented but not live-validated.*
 
-[View repository →](https://github.com/santhoshraghuraman/SciPilot)
+<p>
+  <a href="https://github.com/santhoshraghuraman/SciPilot">View Repository →</a>
+</p>
 
 ---
 
 ### 3. Adaptive Layout Engine
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" alt="Vitest"/>
 </p>
 
 A framework-agnostic TypeScript layout engine with 10 modules and no React/DOM dependencies.
 
-- Generates constraint-valid layouts across six advertising surfaces.
+- Generates constraint-valid layouts across six ad surfaces.
 - Uses constraint validation and weighted candidate ranking.
 - Implements binary-search text fitting.
 
-**Test suite:** 61 documented Vitest tests.
+**Testing:** 61 documented Vitest tests.
 
-**Benchmark:** 0.110 ms mean and 0.065 ms median (p50) computation time across 900 runs, as documented in the repository benchmark.
+**Benchmark:** 0.110 ms mean and 0.065 ms median computation time across 900 runs.
 
-[View repository →](https://github.com/santhoshraghuraman/flamai-adaptive-layout-engine)
+<p>
+  <a href="https://github.com/santhoshraghuraman/flamai-adaptive-layout-engine">View Repository →</a>
+  ·
+  <a href="https://flamai-adaptive-layout-engine.vercel.app/">Live Project →</a>
+</p>
 
 ---
 
-### 4. Reliable Vision — Lead Management CRM (Milestone 1)
+### 4. Reliable Vision — Client Lead Management
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
-*Client project · First milestone*
+*Freelance client project · First milestone*
 
-A lead-management foundation built with Next.js, TypeScript and Supabase.
+A lead-management foundation covering:
 
-- Excel/CSV lead upload, preview and validation.
-- Duplicate-phone detection within an upload and against existing Supabase records.
-- Import of valid leads and searchable lead records.
-- Lead detail views and dashboard statistics.
+- Excel/CSV lead upload and preview.
+- Input validation and duplicate-phone detection.
+- Duplicate checking against Supabase records.
+- Valid lead import and searchable lead records.
+- Lead details and dashboard statistics.
 
-*Milestone 1 scope only: WhatsApp messaging, n8n automation, Gemini AI scoring, campaign management and related integrations are listed as future work in the repository documentation; they are not represented here as implemented features.*
+*This is the first milestone. Automation and AI-personalization features are not yet built.*
 
-[View repository →](https://github.com/santhoshraghuraman/reliable-vision-automation)
+<p>
+  <a href="https://github.com/santhoshraghuraman/reliable-vision-automation">View Repository →</a>
+</p>
 
 ---
 
@@ -175,29 +224,33 @@ A lead-management foundation built with Next.js, TypeScript and Supabase.
 
 ### Nearva — Local Service Discovery Platform
 
-*Primary developer*
+*Primary Developer*
 
-A hyperlocal service-discovery platform connecting users with nearby workers. The repository documents worker registration, admin approval, service filtering and map-based discovery using FastAPI, Supabase, Leaflet.js and OpenStreetMap.
-
-[View repository →](https://github.com/santhoshraghuraman/Nearva)
+Worker registration, admin approval, dashboards and map-based service discovery using FastAPI, Supabase and Leaflet.js.
 
 ### RedactIQ — Document PII Detection & Redaction
 
 *Team academic project*
 
-A document-sanitization project combining regular-expression patterns and named-entity recognition to identify and redact sensitive information in PDF, DOCX and TXT documents. Project evaluation figures are reported in the team's documentation and have not been independently reproduced here.
+Regex/NER-based PII detection and redaction across PDF, DOCX and TXT documents.
 
-[View repository →](https://github.com/santhoshraghuraman/RedactIQ)
+*Metrics are project-reported and not independently verified.*
+
+<p>
+  <a href="https://github.com/santhoshraghuraman/RedactIQ">View Repository →</a>
+</p>
 
 ### SecureIt — Image/Video Steganography & Speech-to-Text
 
 *Team academic project*
 
-An academic project exploring LSB-based image/video steganography and Gemini-powered speech-to-text, with media-quality evaluation concepts including PSNR, MSE and SSIM.
+LSB-based image/video steganography with an AI speech-to-text component, evaluated using PSNR, MSE and SSIM.
 
-*The public repository currently provides project documentation; it states that the original implementation source is not included.*
+*Metrics are project-reported and not independently verified.*
 
-[View repository →](https://github.com/santhoshraghuraman/SecureIt)
+<p>
+  <a href="https://github.com/santhoshraghuraman/SecureIt">View Repository →</a>
+</p>
 
 ---
 
@@ -207,21 +260,24 @@ An academic project exploring LSB-based image/video steganography and Gemini-pow
 
 *June 2026 – July 2026*
 
-Developed SciPilot, a scientific-document research assistant with a seven-stage RAG workflow, retrieval, grounding verification and citation generation.
+Developed SciPilot, a scientific-document research assistant with a seven-stage RAG pipeline, retrieval, grounding verification and citation generation.
 
 ### Freelance Software Developer
 
 *December 2024 – Present*
 
-- Delivered 5+ freelance web projects across business and portfolio domains.
-- Built and deployed a document-submission workflow with an admin dashboard for a consulting client.
+- Delivered 5+ freelance web projects across e-commerce, business and portfolio domains.
+- Built and deployed a document-submission platform with an admin dashboard for **Al Madina Consultants**.
+- Replaced manual WhatsApp collection of student details and documents with a structured workflow supporting overseas employment recommendations for Class 10 and 12 graduates.
 - Used FastAPI, Supabase and Cloudinary with input and file validation.
 
 ---
 
 ## Patent Application
 
-**Co-inventor (fourth listed)** — Published Indian patent application **IN202641067193 A1**.
+**Co-inventor (fourth listed)**
+
+Published Indian patent application **IN202641067193 A1**
 
 *System and Method for Victim-Side Detection and Attribution of SMS and Call Bombing Attacks.*
 
@@ -239,28 +295,75 @@ Filed on 29 May 2026 at Vellore Institute of Technology.
 
 ---
 
-## GitHub Activity & Statistics
+## GitHub Statistics
 
 <p align="center">
   <img
-    src="./github-metrics.svg"
-    width="100%"
-    alt="Automatically updated GitHub profile statistics, activity and most-used languages"
+    src="https://github-readme-stats.vercel.app/api?username=santhoshraghuraman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshraghuraman&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Most used programming languages"
   />
 </p>
 
-<p align="center"><em>Updated automatically by GitHub Actions. Language statistics are based on repositories and activity visible to the workflow token.</em></p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=santhoshraghuraman&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub contribution streak"
+  />
+</p>
 
 ---
+
+## Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshraghuraman&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+</p>
 
 ## 3D Contribution Calendar
 
 <p align="center">
-  <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
-    width="100%"
-    alt="Animated 3D GitHub contribution calendar"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg"/>
+    <img src="./profile-3d-contrib/profile-green.svg" width="100%" alt="3D GitHub contribution calendar"/>
+  </picture>
 </p>
 
-<p align="center"><em>Contribution visualization generated from GitHub activity.</em></p>
+<p align="center">
+  <em>Consistent learning, building and contributing.</em>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://santhosh-portfolio-gamma.vercel.app/">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/santhosh-0407rv/">LinkedIn</a>
+  ·
+  <a href="https://github.com/santhoshraghuraman">GitHub</a>
+  ·
+  <a href="https://leetcode.com/u/Santhosh191204/">LeetCode</a>
+  ·
+  <a href="mailto:santhosh.rv.work@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer"
+    width="100%"
+    alt=""
+  />
+</p>
