@@ -20,6 +20,7 @@ Integrated M.Tech Software Engineering student at Vellore Institute of Technolog
 I build backend and full-stack applications using Python, FastAPI, React and TypeScript. My work includes API development, database integration, applied AI/ML systems and automated testing. I value clear architecture, measurable evaluation and honest reporting of implementation status.
 
 ---
+## Technical Skills
 
 
 
