@@ -248,8 +248,4 @@ Filed on 29 May 2026 at Vellore Institute of Technology.
 
 <p align="center"><em>Contribution visualization generated from GitHub activity.</em></p>
 
----
 
-## 3D Contribution Calendar
-
-![3D Contribution Calendar](./profile-3d-contrib/profile-night-green.svg)
