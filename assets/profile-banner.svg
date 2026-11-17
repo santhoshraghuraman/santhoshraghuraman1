@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Santhosh R</title>
+  <desc id="desc">Backend-Focused Software Engineer | Applied AI/ML Systems</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1720"/>
+      <stop offset="52%" stop-color="#153542"/>
+      <stop offset="100%" stop-color="#245b68"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#62d7c5" stop-opacity=".06"/>
+      <stop offset="50%" stop-color="#8ee8dc" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#62d7c5" stop-opacity=".02"/>
+    </linearGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#d7f6f1" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="230" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="230" rx="18" fill="url(#grid)"/>
+  <path d="M0 184 C180 150 288 218 470 182 S820 132 1200 180 V230 H0Z" fill="url(#glow)"/>
+  <path d="M0 194 C210 155 300 224 490 190 S850 151 1200 192" fill="none" stroke="#77daca" stroke-opacity=".22" stroke-width="2"/>
+  <g fill="none" stroke="#9de8dc" stroke-opacity=".23" stroke-width="2">
+    <path d="M72 62h98l22 22h85"/><circle cx="72" cy="62" r="5" fill="#9de8dc" fill-opacity=".45"/>
+    <path d="M1128 57h-88l-28 28h-62"/><circle cx="1128" cy="57" r="5" fill="#9de8dc" fill-opacity=".45"/>
+    <path d="M1030 166h-54l-18-18h-72"/><circle cx="1030" cy="166" r="5" fill="#9de8dc" fill-opacity=".45"/>
+    <path d="M80 162h68l20-20h75"/><circle cx="80" cy="162" r="5" fill="#9de8dc" fill-opacity=".45"/>
+  </g>
+  <text x="600" y="103" text-anchor="middle" fill="#f4fbff" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="57" font-weight="700" letter-spacing=".5">Santhosh R</text>
+  <text x="600" y="145" text-anchor="middle" fill="#c7e7e8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" letter-spacing="1.2">BACKEND ENGINEERING  ·  APPLIED AI/ML SYSTEMS</text>
+  <rect x="540" y="174" width="120" height="3" rx="1.5" fill="#78d9ca" fill-opacity=".85"/>
+</svg>
