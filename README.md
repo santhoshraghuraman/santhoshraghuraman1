@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <strong>Backend-Focused Software Engineer | Applied AI/ML Systems</strong>
+  <strong>Integrated M.Tech Software Engineering Student | VIT Vellore</strong>
 </p>
 
 <p align="center">
